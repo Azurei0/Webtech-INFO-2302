@@ -1,0 +1,61 @@
+body{
+  font-family: Arial;
+}
+
+
+.left{
+  position: fixed;
+  left: 0;
+}
+
+.right{
+  position: fixed;
+  top: 25%;
+  right: 25%;
+}
+
+.image1{
+  position: fixed;
+  top: 10px;
+  left: 0;
+  width: 600px;
+  height: 600px;
+}
+
+.iiumlogo{
+  position: fixed;
+  top: 0;
+  right: 25px;
+  width: 150px;
+  height: 50px;
+}
+
+h2{
+  text-align: left;
+}
+
+div.loginbotborder{
+  border-bottom: 4px solid;
+  border-bottom-color: #60A49F;
+  border-bottom-width: medium;
+}
+
+.form{
+  padding: 5px;
+  margin-top: 5px;
+  width: 250px;
+}
+
+.loginbtn{
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  width: 265px;
+}
+
+.bottomlink{
+  position: fixed;
+  bottom: 3px;
+  right: 25px;
+}
